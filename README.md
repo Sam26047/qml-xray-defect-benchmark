@@ -103,5 +103,3 @@ Python 3.10+, `numpy`, `pandas`, `scipy`, `scikit-learn`, `scikit-image`, `openc
 The code is released under the MIT licence (`LICENSE`). The labels are derived from GDXray+ and BAM's annotations and are subject to their terms (`DATA_NOTICE.md`). If you use this repository, please cite the paper above and GDXray+:
 
 > D. Mery, V. Riffo, U. Zscherpel, G. Mondragón, I. Lillo, I. Zuccar, H. Lobel, M. Carrasco. GDXray: The database of X-ray images for nondestructive testing. *Journal of Nondestructive Evaluation* 34, 42 (2015).
-#   q m l - x r a y - d e f e c t - b e n c h m a r k  
- 
