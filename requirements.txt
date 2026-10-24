@@ -1,0 +1,13 @@
+# Versions are minimums; the experiments ran on the Kaggle Python image (October 2026).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+scikit-image>=0.21
+opencv-python>=4.8
+Pillow>=10.0
+matplotlib>=3.7
+xlrd>=2.0            # scripts/make_weld_labels.py only (reads real-values.xls)
+torch>=2.0           # ResNet-18 notebooks and cutpaste_experiment.py
+torchvision>=0.15
+# qiskit>=1.2        # optional: cross-check of the simulated feature maps in notebook 02
